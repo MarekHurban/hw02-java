@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/marek/bla/9/java1/2019-hw02-crawler/src/main/java/cz/muni/fi/pb162/hw02/crawler/SmartCrawler.java">
+</file>
+<file name="/home/marek/bla/9/java1/2019-hw02-crawler/src/main/java/cz/muni/fi/pb162/hw02/crawler/IndexCrawler.java">
+</file>
+<file name="/home/marek/bla/9/java1/2019-hw02-crawler/src/main/java/cz/muni/fi/pb162/hw02/crawler/ReverseIndexCrawler.java">
+</file>
+<file name="/home/marek/bla/9/java1/2019-hw02-crawler/src/main/java/cz/muni/fi/pb162/hw02/SimpleHttpClient.java">
+</file>
+<file name="/home/marek/bla/9/java1/2019-hw02-crawler/src/main/java/cz/muni/fi/pb162/hw02/impl/Crawler.java">
+</file>
+</checkstyle>

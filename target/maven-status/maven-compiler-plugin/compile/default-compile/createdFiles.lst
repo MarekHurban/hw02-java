@@ -1,0 +1,5 @@
+cz/muni/fi/pb162/hw02/crawler/SmartCrawler.class
+cz/muni/fi/pb162/hw02/crawler/IndexCrawler.class
+cz/muni/fi/pb162/hw02/SimpleHttpClient.class
+cz/muni/fi/pb162/hw02/impl/Crawler.class
+cz/muni/fi/pb162/hw02/crawler/ReverseIndexCrawler.class

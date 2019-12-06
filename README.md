@@ -1,10 +1,6 @@
 Homework assignment no. 2, URL Crawler
 ====================================
 
-**Publication date:** 11th November 
-
-**Submission deadline:** 2nd December 23:59
-
 General information
 -------------------
 In this assignment you will write an application which can crawl a net of web pages and build either an ```index``` or ```reverse index``` of links for each page (represented by URL)
